@@ -1,0 +1,9 @@
+public class subs
+{
+	public static void main(String[] args)
+	{
+		String Str =new String ("My name is Mariia");
+		System.out.print(Str.subSequence(3,6));
+		
+	}
+}
